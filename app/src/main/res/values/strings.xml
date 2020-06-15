@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="temp_degree">%s\u00B0</string>
+    <string name="temp_unit_f">\u00B0F</string>
+    <string name="visibility">%s mi</string>
+    <string name="pressure">%s inHg</string>
+    <string name="humidity">%s%%</string>
+    <string name="dew_point">%s\u00B0F</string>
+    <string name="query_hint">Enter zipcode to search</string>
+    <string name="loading_info_msg">Loading weather data</string>
+    <string name="connection_error">Connection error. Please check internet connectivity.</string>
+    <string name="permission_decline_info_msg">Allow location permission to see current weather</string>
+    <string name="not_found_info_msg">Zipcode not found</string>
+    <string name="day">Day</string>
+    <string name="feels_like">Feels like</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="day_forecast">7 Day Forecast</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="visibility_label">Visibility</string>
+    <string name="dewpoint_label">Dewpoint</string>
+    <string name="pressure_label">Pressure</string>
+    <string name="temp_desc">Partly cloudy</string>
+    <string name="night">Night</string>
+    <string name="divider">|</string>
+    <string name="hourly_time">10 PM</string>
+    <string name="hourly_temp">54</string>
+</resources>
